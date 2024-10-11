@@ -5,3 +5,6 @@
 [submodule "Certara.NLME8"]
 	path = Certara.NLME8
 	url = https://github.com/cran/Certara.NLME8
+[submodule "Certara.VPCResults"]
+	path = Certara.VPCResults
+	url = https://github.com/cran/Certara.VPCResults
