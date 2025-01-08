@@ -11,6 +11,9 @@
 [submodule "Certara.RsNLME.ModelBuilder"]
 	path = Certara.RsNLME.ModelBuilder
 	url = https://github.com/cran/Certara.RsNLME.ModelBuilder
+[submodule "Certara.RsNLME.ModelExecutor"]
+	path = Certara.RsNLME.ModelExecutor
+	url = https://github.com/cran/Certara.RsNLME.ModelExecutor
 [submodule "Certara.VPCResults"]
 	path = Certara.VPCResults
 	url = https://github.com/cran/Certara.VPCResults
