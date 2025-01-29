@@ -17,3 +17,6 @@
 [submodule "Certara.VPCResults"]
 	path = Certara.VPCResults
 	url = https://github.com/cran/Certara.VPCResults
+[submodule "Certara.Xpose.NLME"]
+	path = Certara.Xpose.NLME
+	url = https://github.com/cran/Certara.Xpose.NLME
