@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "Certara.ModelResults"]
+	path = Certara.ModelResults
+	url = https://github.com/cran/Certara.ModelResults
 [submodule "Certara.NLME8"]
 	path = Certara.NLME8
 	url = https://github.com/cran/Certara.NLME8
